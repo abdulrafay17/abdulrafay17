@@ -2,7 +2,7 @@
 - 👀 I’m interested in **Web Development**, **React**, and **Open Source**  
 - 🌱 I’m currently learning **React.js**, **Next.js** and **english langauge**.
 - 💞️ I’m looking to collaborate on **web apps, UI projects, and beginner-friendly open source repos**  
-- 📫 How to reach me: **abdulrafay037@gmail.com** (or your preferred contact)  
+- 📫 How to reach me: **abdulrafay037@gmail.com** Phone#: 0320-1243990 
 - ⚡ Fun fact: I can turn caffeine into code ⚡☕  
 
 <!---
