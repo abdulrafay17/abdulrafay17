@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./images/banner.png" alt="Banner" width="100%">
+</p>
 ### 👋 Hi, I’m @abdulrafay17  
 - 👀 I’m interested in **Web Development**, **React**, and **Open Source**  
 - 🌱 I’m currently learning **React.js**, **Next.js** and **english langauge**.
