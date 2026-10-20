@@ -1,33 +1,35 @@
-<div align="center">
+<div style="background-color:#800000; color:#ffffff;" bgcolor="#800000">
+
+<div align="center" style="background-color:#800000;" bgcolor="#800000">
 
 <img src="./images/banner.png" alt="Abdul Rafay Banner" width="100%" />
 
 <br/>
 
-### 👋 Hi, I'm Abdul Rafay
+###  Hi, I'm Abdul Rafay
 
 **Full Stack Developer & Backend Engineer** building production systems in the PERN stack, self-taught since 16, currently deepening my system architecture and AI integration skills.
 
-📍 Pakistan &nbsp;|&nbsp; 💼 Decigence.AI (Melbourne, remote) &nbsp;|&nbsp; 📫 abdulrafay037@gmail.com
+📍 Pakistan &nbsp;|&nbsp;  Decigence.AI (Melbourne, remote) &nbsp;|&nbsp;  abdulrafay037@gmail.com
 
 </div>
 
----
+***
 
-### 🧑‍💻 What I Do
+###  What I Do
 
 I'm a **Junior Full Stack Developer / Software Engineer (Backend)** at **Decigence.AI**, a Melbourne-based company, working remotely from Pakistan. I build and maintain production systems across the full stack, with a focus on backend architecture, performance optimization, and cost-conscious AI integration.
 
 **A few things I've shipped in production:**
-- ⚡ Optimized a core caching layer with **Redis**, cutting latency from **300ms to 12ms**
-- 🐳 **Dockerized** the full production environment for consistent, reliable deployment
-- 🤖 Built a hybrid AI routing system using **Ollama as a local pre-filter** before falling back to paid APIs, cutting AI operational costs significantly
+-  Optimized a core caching layer with **Redis**, cutting latency from **300ms to 12ms**
+-  **Dockerized** the full production environment for consistent, reliable deployment
+-  Built a hybrid AI routing system using **Ollama as a local pre-filter** before falling back to paid APIs, cutting AI operational costs significantly
 
 Outside of work, I'm self-taught across my entire stack, starting with GW-BASIC as a kid, and currently pursuing a BSCS alongside full-time work. I'm especially drawn to system architecture as a discipline, treating it as a long-term, AI-resilient career direction rather than just another skill to pick up.
 
----
+***
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages**
 
@@ -65,33 +67,36 @@ Outside of work, I'm self-taught across my entire stack, starting with GW-BASIC 
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 
----
+***
 
-### 🚧 Currently Building
+###  Currently Building
 
-**[Visual Symptom Explorer](https://github.com/abdulrafay17/visual-symptom-explorer)** — an interactive 3D human anatomy explorer built with React, Three.js, and a self-hosted Ollama pipeline. Users explore a fully rotatable, medically-detailed 3D model to get structured, educational explanations of symptoms, never a diagnosis. Built on 1300+ classified anatomical structures with a custom region-mapping system and Draco-optimized 3D assets.
+**[Visual Symptom Explorer](https://github.com/abdulrafay17/visual-symptom-explorer)**: an interactive 3D human anatomy explorer built with React, Three.js, and a self-hosted Ollama pipeline. Users explore a fully rotatable, medically-detailed 3D model to get structured, educational explanations of symptoms, never a diagnosis. Built on 1300+ classified anatomical structures with a custom region-mapping system and Draco-optimized 3D assets.
 
----
+***
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=abdulrafay17&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrafay17&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
 </div>
 
----
+***
 
-### 🌱 What I'm Learning Next
+###  What I'm Learning Next
 
 - Deepening system architecture and distributed systems design
 - Layering LLM APIs, vector databases, and LangChain onto my existing full stack skills
 - AWS Solutions Architect fundamentals
 
----
+***
 
 <div align="center">
 
-📫 **Reach me:** abdulrafay037@gmail.com &nbsp;|&nbsp; 🌐 **Portfolio:** [rafay-developer.vercel.app](https://rafay-developer.vercel.app)
+ **Reach me:** abdulrafay037@gmail.com &nbsp;|&nbsp;  **Portfolio:** [rafay-developer.vercel.app](https://rafay-developer.vercel.app)
 
 </div>
+
+</div>
+
